@@ -1,2 +1,2 @@
-class Registration{
+  class Registration{
 }
