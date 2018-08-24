@@ -1,4 +1,4 @@
 class Calculator{
 public int no = 1;
-public String myNumber;
+public String myName=null;
 }
