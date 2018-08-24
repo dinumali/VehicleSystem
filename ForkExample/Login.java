@@ -1,3 +1,3 @@
 class Login{
-public STring name;
+public String userName;
 }
